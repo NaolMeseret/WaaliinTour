@@ -3,7 +3,7 @@
 **AI-Powered Cultural Tourism Platform**  
 _Experience culture, not just places._
 
-[Live Project / Demo Link](YOUR_PROJECT_LINK_HERE)
+[Live Project / Demo Link](https://waaliin-tour-event.vercel.app/)
 
 ---
 
