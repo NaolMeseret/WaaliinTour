@@ -72,8 +72,8 @@ Waalin Tours bridges the gap with:
 
 ## Demo / Screenshots
 
-![App Screenshot](LINK_TO_SCREENSHOT_1)  
-![App Screenshot](LINK_TO_SCREENSHOT_2)
+![App Screenshot](demo.png)  
+![App Screenshot](demo2.png)
 
 > Demo your MVP visually: screenshots, GIFs, or flowcharts enhance credibility.
 
@@ -108,7 +108,7 @@ Tourism is not just visiting places—it’s experiencing culture.
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/waalin-tours.git
+git clone https://github.com/NaolMeseret/WaaliinTour.git
 
 # Navigate to the project folder
 cd waalin-tours
