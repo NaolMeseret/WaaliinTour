@@ -1,0 +1,16 @@
+<svg width="800" height="1200" viewBox="0 0 800 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="1200" fill="#FFFBEB"/>
+  <!-- Habesha Kemis Silhouette -->
+  <path d="M400 150L200 450L150 1150H650L600 450L400 150Z" fill="#FEFCE8" stroke="#FEF3C7" stroke-width="2"/>
+  <!-- Tibeb Patterns (Green and Gold) -->
+  <rect x="170" y="600" width="460" height="60" fill="#166534"/>
+  <rect x="170" y="615" width="460" height="5" fill="#EAB308"/>
+  <rect x="170" y="640" width="460" height="5" fill="#EAB308"/>
+  <!-- Center Cross Motif -->
+  <path d="M400 300V450M350 375H450" stroke="#EAB308" stroke-width="8" stroke-linecap="round"/>
+  <!-- Bottom Elaborate Border -->
+  <rect x="150" y="950" width="500" height="200" fill="#166534"/>
+  <path d="M150 970L650 970M150 1130L650 1130" stroke="#EAB308" stroke-width="4" stroke-dasharray="10 5"/>
+  <text x="400" y="1050" text-anchor="middle" font-family="sans-serif" font-weight="900" font-size="32" fill="#EAB308">TIBEB PATTERN</text>
+  <text x="400" y="1180" text-anchor="middle" font-family="sans-serif" font-weight="900" font-size="20" fill="#166534" opacity="0.3">AMHARA HABESHA KEMIS</text>
+</svg>

@@ -1,0 +1,18 @@
+<svg width="800" height="1200" viewBox="0 0 800 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="1200" fill="#F8FAFC"/>
+  <!-- Dress Silhouette -->
+  <path d="M400 200L250 400L200 1100H600L550 400L400 200Z" fill="white" stroke="#E2E8F0" stroke-width="2"/>
+  <!-- Oromo Embroidery Patterns (Black and Red) -->
+  <rect x="220" y="500" width="360" height="40" fill="#0F172A"/>
+  <rect x="220" y="550" width="360" height="10" fill="#EF4444"/>
+  <path d="M220 700H580V780H220V700Z" fill="#0F172A"/>
+  <path d="M230 710H570V770H230V710Z" fill="white" opacity="0.1"/>
+  <!-- Geometric Details -->
+  <path d="M400 250L430 300H370L400 250Z" fill="#EF4444"/>
+  <circle cx="400" cy="350" r="10" fill="#0F172A"/>
+  <!-- Bottom Border -->
+  <rect x="200" y="1000" width="400" height="100" fill="#0F172A"/>
+  <rect x="200" y="1020" width="400" height="5" fill="#EF4444"/>
+  <rect x="200" y="1075" width="400" height="5" fill="#EF4444"/>
+  <text x="400" y="1160" text-anchor="middle" font-family="sans-serif" font-weight="900" font-size="24" fill="#0F172A" opacity="0.2">OROMO QOOLLOO</text>
+</svg>

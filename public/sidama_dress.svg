@@ -1,0 +1,21 @@
+<svg width="800" height="1200" viewBox="0 0 800 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="1200" fill="#F0FDF4"/>
+  <!-- Sidama Silhouette -->
+  <path d="M400 200L280 400L220 1100H580L520 400L400 200Z" fill="white" stroke="#DCFCE7" stroke-width="2"/>
+  <!-- Sidama Vibrant Stripes (Red, Green, Yellow) -->
+  <g opacity="0.9">
+    <rect x="240" y="500" width="320" height="20" fill="#EF4444"/>
+    <rect x="240" y="520" width="320" height="20" fill="#22C55E"/>
+    <rect x="240" y="540" width="320" height="20" fill="#EAB308"/>
+  </g>
+  <g opacity="0.9">
+    <rect x="230" y="700" width="340" height="30" fill="#22C55E"/>
+    <rect x="230" y="730" width="340" height="10" fill="#EF4444"/>
+    <rect x="230" y="740" width="340" height="30" fill="#EAB308"/>
+  </g>
+  <!-- Large Bottom Pattern -->
+  <rect x="220" y="900" width="360" height="200" fill="#EAB308"/>
+  <rect x="220" y="920" width="360" height="40" fill="#EF4444"/>
+  <rect x="220" y="980" width="360" height="40" fill="#22C55E"/>
+  <text x="400" y="1160" text-anchor="middle" font-family="sans-serif" font-weight="900" font-size="24" fill="#166534" opacity="0.3">SIDAMA TRADITIONAL</text>
+</svg>
