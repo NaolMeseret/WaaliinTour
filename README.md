@@ -70,15 +70,6 @@ Waalin Tours bridges the gap with:
 
 ---
 
-## Demo / Screenshots
-
-![App Screenshot](demo.png)  
-![App Screenshot](demo2.png)
-
-> Demo your MVP visually: screenshots, GIFs, or flowcharts enhance credibility.
-
----
-
 ## Business Value
 
 - Attract more tourists
